@@ -1,7 +1,7 @@
 
 # ⚽ World Cups Data Analysis 1930–2014
 
-## 📊 Data Source
+##  Data Source
 [FIFA World Cup Dataset – Kaggle](https://www.kaggle.com/datasets/abecklas/fifa-world-cup)
 
 ---
