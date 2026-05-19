@@ -6,7 +6,7 @@
 
 ---
 
-## 🧹 Data Cleaning Log
+## Data Cleaning Log
 - Fixed date column — converted from invalid format to proper DateTime
 -  Renamed group values from numeric (1, 2, 3) to alphabetic (A, B, C) 
      to keep data consistent across all records
@@ -16,3 +16,6 @@
      occurrences of "G" in the Event column using Power Query
 -  Found and removed duplicate match records
 - Many other required edits
+
+## Data Modeling
+- Created table Winners with winners teams and draws, tramformed column win conditions and home/away team goals
