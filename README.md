@@ -18,7 +18,7 @@
 - Many other required edits
 
 ## Data Modeling
-- Created table Winners with winners teams and draws, tramformed column win conditions and home/away team goals
-- created table countries with all countries and continent where this country is. To sort it in analyse
-- divide world_cups table into 2 tables. tables with places and table with info about world cup
-- created table world_cup_match_team by zrobic dobre polaczenie
+- Created table world_cup_match_team with match results, location (Home/Away) and Country for better filtering and connection with countries table
+- Created the countries table with all countries and their continents for filtering in analysis
+- Divided world_cups table into 2 tables. Table with places and table with info about world cup
+- Created a data_table to sort results by date
